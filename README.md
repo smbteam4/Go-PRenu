@@ -14,6 +14,7 @@ REST API - Golang services
 ## Application Setup
 
 .env file contains the enviromental variables for project setup
+
 To run the application file:
     go run main.go
     

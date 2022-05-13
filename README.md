@@ -74,9 +74,9 @@ To run the application file:
 
 ## Example Response Format
 
-{
-    Message:Survivor data inserted successfully 
-    Success:true 
-    Data:ObjectID("62475e911a0a5df5f99c3c55") 
-    Error:<nil>
-}
+    {
+        Message:Survivor data inserted successfully 
+        Success:true 
+        Data:ObjectID("62475e911a0a5df5f99c3c55") 
+        Error:<nil>
+    }
